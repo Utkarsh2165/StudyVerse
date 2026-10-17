@@ -1,0 +1,6 @@
+{
+  "name": "StudyVerse AI",
+  "description": "Premium AI-powered study platform and board paper scanner for Indian students and Maharashtra SSC Class 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
